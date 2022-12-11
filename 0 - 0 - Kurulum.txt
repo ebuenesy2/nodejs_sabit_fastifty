@@ -1,0 +1,26 @@
+## Fastify Yükleme
+
+```
+npm i fastify
+```
+
+```
+npm i fastify-formbody
+```
+
+
+```
+npm i dayjs
+```
+
+```
+npm i dotenv
+```
+
+```
+npm i jwt-encode
+```
+
+```
+npm i jwt-decode
+```
